@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" type="text/css"
+  href="style.css">
+  <title>"Hello World" </title>
+</head>
+<body>
+<h1 class="title" style="color: red;">Hello World!</h1>
+  <div class="description" style="color: red;">I think of the book "The Giving Tree" and
+  the little boy took the tree for granted. The tree gave him a branch to swing
+  from, shade, wood for a house and canoe, and finally a stump to sit on. All
+  the tree wanted was love. So honoring this thought, I will respect you, treat you with kindness, and
+  give back to you. You are beautiful! Thank you for all you provide us with.
+  Hello world!
+  </div>
+</body>
+</html>
